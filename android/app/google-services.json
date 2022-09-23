@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "98759604746",
+    "firebase_url": "https://almaearid-fe83a.firebaseio.com",
+    "project_id": "almaearid-fe83a",
+    "storage_bucket": "almaearid-fe83a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98759604746:android:6fdf6123123024a32f3df3",
+        "android_client_info": {
+          "package_name": "com.edukwait.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98759604746-3qka3c97pf3f1mooe7aslaickpccmm64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ3Pq6MgoRZ2ShMSm35AHERx63mqgfNu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98759604746-3qka3c97pf3f1mooe7aslaickpccmm64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98759604746:android:7259c8241c6bef762f3df3",
+        "android_client_info": {
+          "package_name": "com.imockup.almaearid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98759604746-2ctbdf13bj2i80r6o64i1ej65p1l7q31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.imockup.almaearid",
+            "certificate_hash": "5f8ac8fb9915fb83ae6e3dd40234533c24f5c093"
+          }
+        },
+        {
+          "client_id": "98759604746-3qka3c97pf3f1mooe7aslaickpccmm64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ3Pq6MgoRZ2ShMSm35AHERx63mqgfNu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98759604746-3qka3c97pf3f1mooe7aslaickpccmm64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98759604746:android:063de188a512dc1c2f3df3",
+        "android_client_info": {
+          "package_name": "net.imockup.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98759604746-3qka3c97pf3f1mooe7aslaickpccmm64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ3Pq6MgoRZ2ShMSm35AHERx63mqgfNu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98759604746-3qka3c97pf3f1mooe7aslaickpccmm64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
